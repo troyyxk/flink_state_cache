@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="flink-metrics-datadog-1.14.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-datadog/flink-metrics-datadog-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-graphite/flink-metrics-graphite-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-influx/flink-metrics-influxdb-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-jmx/flink-metrics-jmx-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-prometheus/flink-metrics-prometheus-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-slf4j/flink-metrics-slf4j-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-statsd/flink-metrics-statsd-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

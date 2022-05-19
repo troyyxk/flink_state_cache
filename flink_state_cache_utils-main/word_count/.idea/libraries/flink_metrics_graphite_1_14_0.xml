@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flink-metrics-graphite-1.14.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../flink-simplified-cache/build-target/plugins/metrics-graphite/flink-metrics-graphite-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

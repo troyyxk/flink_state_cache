@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="flink-metrics-slf4j-1.14.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-slf4j/flink-metrics-slf4j-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-datadog/flink-metrics-datadog-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-statsd/flink-metrics-statsd-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-prometheus/flink-metrics-prometheus-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-influx/flink-metrics-influxdb-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-graphite/flink-metrics-graphite-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/plugins/metrics-jmx/flink-metrics-jmx-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/flink-dist_2.11-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/flink-shaded-zookeeper-3.4.14.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/log4j-core-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/log4j-api-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/log4j-1.2-api-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/log4j-slf4j-impl-2.14.1.jar!/" />
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/bin/bash-java-utils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/flink-simplified-cache/flink-dist/target/flink-1.14.0-bin/flink-1.14.0/lib/flink-dist_2.11-1.14.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
